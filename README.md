@@ -17,5 +17,5 @@ The challenge is to use the following REST service (https://da-react-challenge.h
 ### Challenge 2
 The challenge is to use an embedded database (SQLite, LiteDB etc.) to store the results of (https://da-react-challenge.herokuapp.com/swiftlyrics/swagger/).  Visually have a sync button to pull down albums and lyrics to the database.  In addition have a clear database button.
 
-## Criteria
+## Grading Criteria
 As the instructions above indicate - quality over quantity. Treat this coding challenge as it were a Production WPF application - what would you consider "Production" ready?
